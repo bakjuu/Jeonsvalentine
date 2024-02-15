@@ -2,16 +2,16 @@ import { useState } from "react";
 import "./App.css";
 import IMG_1 from "./images/IMG_1.jpeg";
 import IMG_2 from "./images/IMG_2.JPG";
-import IMG_3 from "./images/IMG_3.PNG";
-import IMG_4 from "./images/IMG_4.JPG";
+import IMG_3 from "./images/IMG_3.jpeg";
+import IMG_4 from "./images/IMG_4.jpeg";
 import IMG_5 from "./images/IMG_5.JPG";
 import IMG_6 from "./images/IMG_6.JPG";
 import IMG_7 from "./images/IMG_7.JPG";
 import IMG_8 from "./images/IMG_8.JPG";
 import IMG_9 from "./images/IMG_9.jpeg";
-import IMG_10 from "./images/IMG_10.JPG";
-import IMG_11 from "./images/IMG_11.JPG";
-import Final from "./images/myvalentine.gif";
+import IMG_10 from "./images/IMG_10.jpeg";
+import IMG_11 from "./images/IMG_11.jpeg";
+import Final from "./images/Final.jpeg";
 const images = [
   IMG_1,
   IMG_2,
