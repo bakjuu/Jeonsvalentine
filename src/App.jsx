@@ -35,7 +35,7 @@ const phrases = [
   "이러지마.. Please🥺",
   "Don't do this to me🫤",
   "I'm gonna cry..😭",
-  "진심이 아니잖아..😭",
+  "환장통 쑤시네..😭",
   "You are breaking my heart😭💔",
   "마이 묵었따..😭💔",
 ];
@@ -64,7 +64,7 @@ function App() {
           <div className="image-container">
             <img src={Final} alt="bear-Kissing" />
           </div>
-          <div className="text">B, My Valentine!</div>
+          <div className="text">YAYYYY!</div>
         </>
       ) : (
         <>
