@@ -6,7 +6,7 @@ import IMG_3 from "./images/IMG_3.jpeg";
 import IMG_4 from "./images/IMG_4.jpeg";
 import IMG_5 from "./images/IMG_5.JPG";
 import IMG_6 from "./images/IMG_6.JPG";
-import IMG_7 from "./images/IMG_7.JPG";
+import IMG_7 from "./images/IMG_7.jpeg";
 import IMG_8 from "./images/IMG_8.JPG";
 import IMG_9 from "./images/IMG_9.jpeg";
 import IMG_10 from "./images/IMG_10.jpeg";
